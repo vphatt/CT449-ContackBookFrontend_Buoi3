@@ -33,7 +33,7 @@ export default {
                 type="button"
                 @click="submit"
             >
-                <i class="fa-solid fa-magnifying-glass"></i> Tìm kiếm
+                <i class="fas fa-search"></i> Tìm kiếm
             </button>
         </div>
     </div>
